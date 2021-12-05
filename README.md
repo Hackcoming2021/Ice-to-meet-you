@@ -1,5 +1,5 @@
-# GingerbreadMaker
-These are the codes for the gingerbread maker pages
+# Ice to meet you!
+Go on adventure to help out your new friend, Toasty the snow man!
 
 ## Tools and libraries
 * Javascript
@@ -14,10 +14,4 @@ Flaticon.com
 
 ## Audio Credits
 Youtube Audio Library
-
-## Run the server
-npx http-server ./
-
-The following no longer works due to accidental install of "npx install http-server"
-python -m http.server 
 
