@@ -209,7 +209,7 @@ frame.on("ready", function() {
 						close:false,
 									
 					}).tap(function(){
-						zgo("../../index.html");
+						zgo("../../html/gingerbreadIntro.html");
 					});
 					paneDrag.x = 400; paneDrag.y = 200;
 					// continueBut.x = 400; continueBut.y = 200;
