@@ -99,7 +99,7 @@ function setup(loader, resources) {
 
   function loop(delta) {
     if (score == 12) {
-      window.location.href = "./blank.html";
+      window.location.href = "../html/toastyOutro.html";
 
     }
     text = "Your Score is: " + score;
